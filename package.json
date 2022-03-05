@@ -1,0 +1,22 @@
+{
+  "name": "essay-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeet7897/essay-backend.git"
+  },
+  "author": "abhijeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijeet7897/essay-backend/issues"
+  },
+  "homepage": "https://github.com/abhijeet7897/essay-backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
